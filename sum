@@ -1,5 +1,5 @@
 #!/bin/bash
-#I LOVE SANDY
+#I shsh actually LOVE SANDY
 #This is a great script
 sum=0
 for arg in $@
