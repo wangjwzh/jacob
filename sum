@@ -1,0 +1,9 @@
+#!/bin/bash
+#I shsh actually LOVE SANDY
+#This is a great script
+sum=0
+for arg in $@
+do
+    sum=$((arg+sum))
+done
+echo $sum
